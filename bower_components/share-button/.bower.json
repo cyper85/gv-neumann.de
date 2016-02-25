@@ -1,0 +1,15 @@
+{
+  "name": "share-button",
+  "homepage": "https://github.com/carrot/share-button",
+  "version": "0.0.3",
+  "_release": "0.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.3",
+    "commit": "a7687b1776fa9165b423f8e02883f394f1d215e4"
+  },
+  "_source": "git://github.com/carrot/share-button.git",
+  "_target": "~0.0.3",
+  "_originalSource": "share-button",
+  "_direct": true
+}
