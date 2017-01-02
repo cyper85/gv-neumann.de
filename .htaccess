@@ -1,2 +1,2 @@
 RedirectMatch 404 /\.git
-RedirectMatch 404 /\.well-known
+#RedirectMatch 404 /\.well-known
